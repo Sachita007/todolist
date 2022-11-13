@@ -12,6 +12,16 @@
     "body-parser": "^1.20.1",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.7.2",
     "node": "^19.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachita007/todolist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sachita007/todolist/issues"
+  },
+  "homepage": "https://github.com/Sachita007/todolist#readme"
 }

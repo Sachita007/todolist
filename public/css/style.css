@@ -1,11 +1,13 @@
 html {
     background-color: #EFE9FD;
     background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #efe9fd 50%);
+    background-attachment: fixed;
     min-height: 1000px;
     font-family: "Helvetica Neue", sans-serif;
 
 
 }
+
 
 
 button {
@@ -49,6 +51,8 @@ h1 {
     min-height: 70px;
     align-items: center;
     border-bottom: 1px solid #f1f1f1;
+    text-align: center;
+    margin-left: 20px;
 }
 
 .list-item:last-child{
@@ -71,10 +75,6 @@ input[type="checkbox"]:checked+p{
 
 input[type="checkbox"]{
     margin: 20px;
-}
-form{
-    text-align: center;
-    margin-left: 20px;
 }
 
 ::placeholder{
